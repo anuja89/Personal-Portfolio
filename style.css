@@ -43,8 +43,11 @@ body {
 
 /* Sections */
 section{
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 130px;
+    padding-bottom: 120px;
+}
+html{
+    scroll-padding-top: 90px;
 }
 #about {
     background-color: #a9b7c1;
