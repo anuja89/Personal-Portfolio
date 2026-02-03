@@ -1,4 +1,8 @@
 body {
+    background: red !important;
+}
+
+body {
     scroll-behavior: smooth;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -55,9 +59,6 @@ body {
     padding-bottom: 140px;
 }*/
 
-#about {
-    border: 5px solid red;
-}
 
 html{
     scroll-padding-top: 90px;
